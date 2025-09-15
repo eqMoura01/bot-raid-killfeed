@@ -1,0 +1,8 @@
+# Dependências para o Bot KillFeed
+# Este projeto usa apenas bibliotecas padrão do Python
+# Não são necessárias dependências externas
+
+# Para desenvolvimento (opcional):
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
